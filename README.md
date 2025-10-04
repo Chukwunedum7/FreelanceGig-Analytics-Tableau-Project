@@ -49,8 +49,4 @@ This Tableau project explores critical insights within the growing gig economy, 
 
 If you’d like to connect about this project or collaborate on data-driven storytelling, feel free to reach out via LinkedIn:
 
-[Your LinkedIn profile link here]
-
----
-
-*Developed as part of the 10alytics Tableau Analytics program.*
+https://www.linkedin.com/in/chukwunedum-ezekwem/

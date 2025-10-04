@@ -41,6 +41,8 @@ This Tableau project explores critical insights within the growing gig economy, 
 - `dashboard_screenshots/` &nbsp;&nbsp;→ Screenshots of the dashboards  
 - `README.md` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ This file
 
+🌐 Live Demo
+👉 https://public.tableau.com/views/GigEconomyAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📬 Contact
 
